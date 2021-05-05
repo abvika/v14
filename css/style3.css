@@ -930,12 +930,26 @@ header .menu{
 			margin-left: -10px;
 			margin-top: 70px;
 		}
-		.main-title{
+		/*.main-title{
 		font-size: 80px;
 		left:0%;
 		}
 		.main-title-shadow{
 			font-size: 100px;
+		}*/
+
+		.main-title{
+			max-width: 400px;
+			font-size: 80px;
+		left:3%;
+		position: relative;
+		}
+		.main-title-shadow{
+			font-size: 80px;
+			width: 500px;
+			position: absolute;
+			left: -5%;
+			top:7%;
 		}
 	}
 
@@ -944,15 +958,15 @@ header .menu{
 			max-width: 320px;
 		}
 		.main-title{
-		font-size: 70px;
-		left:0%;
+			font-size: 60px;
+		left:3%;
+		position: relative;
 		}
 		.main-title-shadow{
-			font-size: 90px;
-		}
-		.button{
-			font-size: 13px;
-			margin-left: -10%;
-			margin-top: 80px;
+			font-size: 60px;
+			width: 500px;
+			position: absolute;
+			left: -5%;
+			top:7%;
 		}
 	}
