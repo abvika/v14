@@ -1213,17 +1213,14 @@ section .up-block-image{
 		align-items: left;
 	}
 
-/*
-.main-title{
-		font-size: 40px;
-		left:0%;
-		position: relative;
-		}
-		.main-title-shadow{
-			font-size: 60px;
-			width: 320px;
-			position: absolute;
-			left: 0%;
-			top:5%;
-		}
-*/
+	.main-title{
+	font-size: 45px;
+	left:3%;
+	position: relative;
+	}
+	.main-title-shadow{
+	font-size: 45px;
+	position: absolute;
+	left: -5%;
+	top:7%;
+	}
