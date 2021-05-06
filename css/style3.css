@@ -958,13 +958,14 @@ header .menu{
 			max-width: 320px;
 		}
 		.main-title{
+			max-width:200px;
 			font-size: 60px;
-		left:3%;
+		left:0%;
 		position: relative;
 		}
 		.main-title-shadow{
 			font-size: 60px;
-			width: 500px;
+			max-width: 200px;
 			position: absolute;
 			left: -5%;
 			top:7%;
