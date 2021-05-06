@@ -1224,3 +1224,8 @@ section .up-block-image{
 	left: -5%;
 	top:7%;
 	}
+	
+	.img-fluid-down-shoes, .img-fluid-down, .img-fluid-up, 
+.img-fluid-cloth-up{
+	height: 100%;
+	}
